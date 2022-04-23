@@ -1,0 +1,15 @@
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/bin/Debug/net6.0/console
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/bin/Debug/net6.0/console.deps.json
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/bin/Debug/net6.0/console.runtimeconfig.json
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/bin/Debug/net6.0/console.dll
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/bin/Debug/net6.0/console.pdb
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/obj/Debug/net6.0/console.csproj.AssemblyReference.cache
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/obj/Debug/net6.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/obj/Debug/net6.0/console.AssemblyInfoInputs.cache
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/obj/Debug/net6.0/console.AssemblyInfo.cs
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/obj/Debug/net6.0/console.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/obj/Debug/net6.0/console.dll
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/obj/Debug/net6.0/refint/console.dll
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/obj/Debug/net6.0/console.pdb
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/obj/Debug/net6.0/console.genruntimeconfig.cache
+/Users/alex/Documents/GitHub/learn/dotnet/console/console/obj/Debug/net6.0/ref/console.dll
