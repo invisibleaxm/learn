@@ -3,4 +3,4 @@ Console.WriteLine("Hello everybody");
 
 Console.WriteLine("This is a mesage from neovim");
 
-Console.WriteLine("Another line");
+Console.WriteLine("Hello World from Lsp");
