@@ -1,0 +1,15 @@
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/bin/Debug/net6.0/HelloFromCSharp
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/bin/Debug/net6.0/HelloFromCSharp.deps.json
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/bin/Debug/net6.0/HelloFromCSharp.runtimeconfig.json
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/bin/Debug/net6.0/HelloFromCSharp.dll
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/bin/Debug/net6.0/ref/HelloFromCSharp.dll
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/bin/Debug/net6.0/HelloFromCSharp.pdb
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.csproj.AssemblyReference.cache
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.AssemblyInfoInputs.cache
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.AssemblyInfo.cs
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.dll
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/ref/HelloFromCSharp.dll
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.pdb
+/Users/alex/Documents/git/learn/csharp/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.genruntimeconfig.cache
