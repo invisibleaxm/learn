@@ -10,5 +10,9 @@ function HelloWorld {
   #Calling function HelloWorld
   HelloWorld -Greeting "Hello"
 
+Write-Output "Hello World"
+$subscriptionId = (New-Guid)
+Write-Output "Your new guid is : $subscriptionId"
+Write-Output -InputObject "Hello World"
 
 #This is a test

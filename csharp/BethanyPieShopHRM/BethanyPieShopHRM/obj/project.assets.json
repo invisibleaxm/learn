@@ -8,25 +8,40 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/alex/.nuget/packages/": {}
+    "C:\\Users\\alexc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:csharp/BethanyPieShopHRM/BethanyPieShopHRM/obj/project.assets.json
       "projectUniqueName": "/Users/alex/Documents/git/learn/csharp/BethanyPieShopHRM/BethanyPieShopHRM/BethanyPieShopHRM.csproj",
       "projectName": "BethanyPieShopHRM",
       "projectPath": "/Users/alex/Documents/git/learn/csharp/BethanyPieShopHRM/BethanyPieShopHRM/BethanyPieShopHRM.csproj",
       "packagesPath": "/Users/alex/.nuget/packages/",
       "outputPath": "/Users/alex/Documents/git/learn/csharp/BethanyPieShopHRM/BethanyPieShopHRM/obj/",
+=======
+      "projectUniqueName": "C:\\git\\invisibleaxm\\learn\\csharp\\HelloFromCSharp\\HelloFromCSharp\\HelloFromCSharp.csproj",
+      "projectName": "HelloFromCSharp",
+      "projectPath": "C:\\git\\invisibleaxm\\learn\\csharp\\HelloFromCSharp\\HelloFromCSharp\\HelloFromCSharp.csproj",
+      "packagesPath": "C:\\Users\\alexc\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\invisibleaxm\\learn\\csharp\\HelloFromCSharp\\HelloFromCSharp\\obj\\",
+>>>>>>> a3713911b13a0aaa22bc22f60ef02ebf2a5d9db2:csharp/HelloFromCSharp/HelloFromCSharp/obj/project.assets.json
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/alex/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\alexc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://pkgs.dev.azure.com/EnsonoDevOps/c6f7ffbb-2a22-463f-bceb-b8152a0f4c40/_packaging/azureprodeng/nuget/v2": {}
       },
       "frameworks": {
         "net6.0": {
@@ -58,7 +73,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD:csharp/BethanyPieShopHRM/BethanyPieShopHRM/obj/project.assets.json
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+>>>>>>> a3713911b13a0aaa22bc22f60ef02ebf2a5d9db2:csharp/HelloFromCSharp/HelloFromCSharp/obj/project.assets.json
       }
     }
   }
