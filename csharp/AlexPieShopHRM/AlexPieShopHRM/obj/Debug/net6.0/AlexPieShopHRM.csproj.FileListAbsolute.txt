@@ -1,0 +1,15 @@
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\bin\Debug\net6.0\AlexPieShopHRM.exe
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\bin\Debug\net6.0\AlexPieShopHRM.deps.json
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\bin\Debug\net6.0\AlexPieShopHRM.runtimeconfig.json
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\bin\Debug\net6.0\AlexPieShopHRM.dll
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\bin\Debug\net6.0\AlexPieShopHRM.pdb
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\obj\Debug\net6.0\AlexPieShopHRM.csproj.AssemblyReference.cache
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\obj\Debug\net6.0\AlexPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\obj\Debug\net6.0\AlexPieShopHRM.AssemblyInfoInputs.cache
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\obj\Debug\net6.0\AlexPieShopHRM.AssemblyInfo.cs
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\obj\Debug\net6.0\AlexPieShopHRM.csproj.CoreCompileInputs.cache
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\obj\Debug\net6.0\AlexPieShopHRM.dll
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\obj\Debug\net6.0\refint\AlexPieShopHRM.dll
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\obj\Debug\net6.0\AlexPieShopHRM.pdb
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\obj\Debug\net6.0\AlexPieShopHRM.genruntimeconfig.cache
+C:\Users\alexc\git\invisibleaxm\learn\csharp\AlexPieShopHRM\AlexPieShopHRM\obj\Debug\net6.0\ref\AlexPieShopHRM.dll
