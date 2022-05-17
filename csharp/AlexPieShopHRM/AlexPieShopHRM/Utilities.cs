@@ -10,5 +10,4 @@ internal class Utilities
       }
       return monthlyWage * numberOfMonthsWorked;
    }
-    
 }
