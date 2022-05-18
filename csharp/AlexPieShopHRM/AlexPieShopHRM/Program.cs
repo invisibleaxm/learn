@@ -7,4 +7,5 @@ int months = 12;
 
 int yearlyWage = Utilities.CalculateYearlyWage(amount,months);
 Console.WriteLine($"Yearly Wage: {yearlyWage}");
+Utilities.UsingNamedArguments();
 Console.ReadLine();

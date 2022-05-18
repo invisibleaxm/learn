@@ -10,4 +10,20 @@ internal class Utilities
       }
       return monthlyWage * numberOfMonthsWorked;
    }
+
+   public static void UsingNamedArguments()
+   {
+      int amounts = 1234;
+      int months = 12;
+      int bonus = 500;
+
+      int r = WageWithOptionalBonus(amounts, months, bonus);
+      Console.WriteLine($"Yearly wage for employee {r}");
+
+   }
+
+   public static int WageWithOptionalBonus(int monthlyWage, int numberOfMonthsWorked, int bonus = 0)
+   {
+      return monthlyWage * (numberOfMonthsWorked + bonus);
+   }
 }
