@@ -7,6 +7,8 @@
 int months = 12, bonus = 1000;
 double ratePerHour = 12.34;
 int numberOfHoursWorked = 165;
+var test = "alex";
+Console.WriteLine(test);
 
 double currentMonthWage = ratePerHour * numberOfHoursWorked + bonus;
 ratePerHour += 3;
