@@ -10,7 +10,15 @@ internal class Utilities
       }
       return monthlyWage * numberOfMonthsWorked;
    }
-
+   public static void ManipulatingStrings()
+   {
+      string firstName = "Alex";
+      string lastName = "Campos";
+      string fullName = firstName + " " + lastName;
+      string employeeIdentification = String.Concat(firstName, lastName);
+      string empId = firstName.ToLower() + "-" + lastName.ToLower();
+      int emp = empId.Length;
+   }
    public static void UsingNamedArguments()
    {
       int amounts = 1234;
@@ -22,6 +30,7 @@ internal class Utilities
 
    }
 
+   public static int CalculateYearlyWageExpressionBodied(int a, int b, int c) => a * b * c;
    public static int WageWithOptionalBonus(int monthlyWage, int numberOfMonthsWorked, int bonus = 0)
    {
       return monthlyWage * (numberOfMonthsWorked + bonus);
