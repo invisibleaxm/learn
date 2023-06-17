@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"rsc.io/quote"
+)
 
 func main() {
 	var x int = 5
